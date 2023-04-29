@@ -22,7 +22,7 @@ A perfume ad project created in HTML and CSS.
 - Product description
 
 📝 Author:
-The project was created by [Your name/nickname].
+The project was created by ixroy.
 
 📧 Contact:
 If you have any questions or feedback, please contact me.

@@ -1,6 +1,6 @@
 🌸👀 Perfume Ad Project 👀🌸
 
-🔗 https://ixroy13.github.io/first-project/ 🔗
+🔗 https://ixroy13.github.io/Perfume-Ad/ 🔗
 
 📝 Project Description:
 A perfume ad project created in HTML and CSS.
